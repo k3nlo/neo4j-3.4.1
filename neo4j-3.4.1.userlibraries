@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: co.unruly:java-8-matchers:1.5">
+    <archive path="/Users/kenlo/.m2/repository/co/unruly/java-8-matchers/1.5/java-8-matchers-1.5.jar" />
+  </library>
+  <library name="Maven: com.github.ben-manes.caffeine:caffeine:2.6.2">
+    <archive path="/Users/kenlo/.m2/repository/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar" />
+  </library>
+  <library name="Maven: com.github.nscala-time:nscala-time_2.11:1.0.0">
+    <archive path="/Users/kenlo/.m2/repository/com/github/nscala-time/nscala-time_2.11/1.0.0/nscala-time_2.11-1.0.0.jar" />
+  </library>
+  <library name="Maven: com.google.auto.service:auto-service:1.0-rc2">
+    <archive path="/Users/kenlo/.m2/repository/com/google/auto/service/auto-service/1.0-rc2/auto-service-1.0-rc2.jar" />
+  </library>
+  <library name="Maven: com.google.auto.value:auto-value:1.5.3">
+    <archive path="/Users/kenlo/.m2/repository/com/google/auto/value/auto-value/1.5.3/auto-value-1.5.3.jar" />
+  </library>
+  <library name="Maven: com.google.auto:auto-common:0.3">
+    <archive path="/Users/kenlo/.m2/repository/com/google/auto/auto-common/0.3/auto-common-0.3.jar" />
+  </library>
+  <library name="Maven: com.google.auto:auto-common:0.9">
+    <archive path="/Users/kenlo/.m2/repository/com/google/auto/auto-common/0.9/auto-common-0.9.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:annotations:3.0.1">
+    <archive path="/Users/kenlo/.m2/repository/com/google/code/findbugs/annotations/3.0.1/annotations-3.0.1.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:1.3.9">
+    <archive path="/Users/kenlo/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:3.0.1">
+    <archive path="/Users/kenlo/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:3.0.2">
+    <archive path="/Users/kenlo/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.8.2">
+    <archive path="/Users/kenlo/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.0.19">
+    <archive path="/Users/kenlo/.m2/repository/com/google/errorprone/error_prone_annotations/2.0.19/error_prone_annotations-2.0.19.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.1.3">
+    <archive path="/Users/kenlo/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava-testlib:24.1-jre">
+    <archive path="/Users/kenlo/.m2/repository/com/google/guava/guava-testlib/24.1-jre/guava-testlib-24.1-jre.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:18.0">
+    <archive path="/Users/kenlo/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:20.0">
+    <archive path="/Users/kenlo/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:23.5-jre">
+    <archive path="/Users/kenlo/.m2/repository/com/google/guava/guava/23.5-jre/guava-23.5-jre.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:24.1-jre">
+    <archive path="/Users/kenlo/.m2/repository/com/google/guava/guava/24.1-jre/guava-24.1-jre.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:1.1">
+    <archive path="/Users/kenlo/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+  </library>
+  <library name="Maven: com.google.testing.compile:compile-testing:0.15">
+    <archive path="/Users/kenlo/.m2/repository/com/google/testing/compile/compile-testing/0.15/compile-testing-0.15.jar" />
+  </library>
+  <library name="Maven: com.google.truth.extensions:truth-java8-extension:0.37">
+    <archive path="/Users/kenlo/.m2/repository/com/google/truth/extensions/truth-java8-extension/0.37/truth-java8-extension-0.37.jar" />
+  </library>
+  <library name="Maven: com.google.truth:truth:0.37">
+    <archive path="/Users/kenlo/.m2/repository/com/google/truth/truth/0.37/truth-0.37.jar" />
+  </library>
+  <library name="Maven: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2">
+    <archive path="/Users/kenlo/.m2/repository/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4.2/concurrentlinkedhashmap-lru-1.4.2.jar" />
+  </library>
+  <library name="Maven: com.hazelcast:hazelcast-all:3.7.5">
+    <archive path="/Users/kenlo/.m2/repository/com/hazelcast/hazelcast-all/3.7.5/hazelcast-all-3.7.5.jar" />
+  </library>
+  <library name="Maven: com.novus:salat-core_2.11:1.9.9">
+    <archive path="/Users/kenlo/.m2/repository/com/novus/salat-core_2.11/1.9.9/salat-core_2.11-1.9.9.jar" />
+  </library>
+  <library name="Maven: com.novus:salat-util_2.11:1.9.9">
+    <archive path="/Users/kenlo/.m2/repository/com/novus/salat-util_2.11/1.9.9/salat-util_2.11-1.9.9.jar" />
+  </library>
+  <library name="Maven: com.profesorfalken:jPowerShell:1.9">
+    <archive path="/Users/kenlo/.m2/repository/com/profesorfalken/jPowerShell/1.9/jPowerShell-1.9.jar" />
+  </library>
+  <library name="Maven: com.profesorfalken:WMI4Java:1.6.1">
+    <archive path="/Users/kenlo/.m2/repository/com/profesorfalken/WMI4Java/1.6.1/WMI4Java-1.6.1.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-client:1.19.3">
+    <archive path="/Users/kenlo/.m2/repository/com/sun/jersey/jersey-client/1.19.3/jersey-client-1.19.3.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-core:1.19.3">
+    <archive path="/Users/kenlo/.m2/repository/com/sun/jersey/jersey-core/1.19.3/jersey-core-1.19.3.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-server:1.19.3">
+    <archive path="/Users/kenlo/.m2/repository/com/sun/jersey/jersey-server/1.19.3/jersey-server-1.19.3.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-servlet:1.19.3">
+    <archive path="/Users/kenlo/.m2/repository/com/sun/jersey/jersey-servlet/1.19.3/jersey-servlet-1.19.3.jar" />
+  </library>
+  <library name="Maven: com.thoughtworks.paranamer:paranamer:2.6">
+    <archive path="/Users/kenlo/.m2/repository/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.9.3">
+    <archive path="/Users/kenlo/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.11">
+    <archive path="/Users/kenlo/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.2">
+    <archive path="/Users/kenlo/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" />
+  </library>
+  <library name="Maven: commons-configuration:commons-configuration:1.10">
+    <archive path="/Users/kenlo/.m2/repository/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.6">
+    <archive path="/Users/kenlo/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.6">
+    <archive path="/Users/kenlo/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.1">
+    <archive path="/Users/kenlo/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.2">
+    <archive path="/Users/kenlo/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+  </library>
+  <library name="Maven: commons-pool:commons-pool:1.6">
+    <archive path="/Users/kenlo/.m2/repository/commons-pool/commons-pool/1.6/commons-pool-1.6.jar" />
+  </library>
+  <library name="Maven: io.airlift:airline:0.7">
+    <archive path="/Users/kenlo/.m2/repository/io/airlift/airline/0.7/airline-0.7.jar" />
+  </library>
+  <library name="Maven: io.cucumber:gherkin-jvm-deps:1.0.4">
+    <archive path="/Users/kenlo/.m2/repository/io/cucumber/gherkin-jvm-deps/1.0.4/gherkin-jvm-deps-1.0.4.jar" />
+  </library>
+  <library name="Maven: io.cucumber:gherkin:5.0.0">
+    <archive path="/Users/kenlo/.m2/repository/io/cucumber/gherkin/5.0.0/gherkin-5.0.0.jar" />
+  </library>
+  <library name="Maven: io.dropwizard.metrics:metrics-core:4.0.2">
+    <archive path="/Users/kenlo/.m2/repository/io/dropwizard/metrics/metrics-core/4.0.2/metrics-core-4.0.2.jar" />
+  </library>
+  <library name="Maven: io.dropwizard.metrics:metrics-graphite:4.0.2">
+    <archive path="/Users/kenlo/.m2/repository/io/dropwizard/metrics/metrics-graphite/4.0.2/metrics-graphite-4.0.2.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-all:4.1.24.Final">
+    <archive path="/Users/kenlo/.m2/repository/io/netty/netty-all/4.1.24.Final/netty-all-4.1.24.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-tcnative-boringssl-static:2.0.7.Final">
+    <archive path="/Users/kenlo/.m2/repository/io/netty/netty-tcnative-boringssl-static/2.0.7.Final/netty-tcnative-boringssl-static-2.0.7.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty:3.9.9.Final">
+    <archive path="/Users/kenlo/.m2/repository/io/netty/netty/3.9.9.Final/netty-3.9.9.Final.jar" />
+  </library>
+  <library name="Maven: io.prometheus:simpleclient:0.1.0">
+    <archive path="/Users/kenlo/.m2/repository/io/prometheus/simpleclient/0.1.0/simpleclient-0.1.0.jar" />
+  </library>
+  <library name="Maven: io.prometheus:simpleclient_common:0.1.0">
+    <archive path="/Users/kenlo/.m2/repository/io/prometheus/simpleclient_common/0.1.0/simpleclient_common-0.1.0.jar" />
+  </library>
+  <library name="Maven: io.prometheus:simpleclient_dropwizard:0.1.0">
+    <archive path="/Users/kenlo/.m2/repository/io/prometheus/simpleclient_dropwizard/0.1.0/simpleclient_dropwizard-0.1.0.jar" />
+  </library>
+  <library name="Maven: io.prometheus:simpleclient_httpserver:0.1.0">
+    <archive path="/Users/kenlo/.m2/repository/io/prometheus/simpleclient_httpserver/0.1.0/simpleclient_httpserver-0.1.0.jar" />
+  </library>
+  <library name="Maven: javax.inject:javax.inject:1">
+    <archive path="/Users/kenlo/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="/Users/kenlo/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: jline:jline:2.12">
+    <archive path="/Users/kenlo/.m2/repository/jline/jline/2.12/jline-2.12.jar" />
+  </library>
+  <library name="Maven: jline:jline:2.14.3">
+    <archive path="/Users/kenlo/.m2/repository/jline/jline/2.14.3/jline-2.14.3.jar" />
+  </library>
+  <library name="Maven: joda-time:joda-time:2.3">
+    <archive path="/Users/kenlo/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.12">
+    <archive path="/Users/kenlo/.m2/repository/junit/junit/4.12/junit-4.12.jar" />
+  </library>
+  <library name="Maven: ldapsdk:ldapsdk:4.1">
+    <archive path="/Users/kenlo/.m2/repository/ldapsdk/ldapsdk/4.1/ldapsdk-4.1.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="/Users/kenlo/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy-agent:1.8.5">
+    <archive path="/Users/kenlo/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.5/byte-buddy-agent-1.8.5.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.8.5">
+    <archive path="/Users/kenlo/.m2/repository/net/bytebuddy/byte-buddy/1.8.5/byte-buddy-1.8.5.jar" />
+  </library>
+  <library name="Maven: net.jcip:jcip-annotations:1.0">
+    <archive path="/Users/kenlo/.m2/repository/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar" />
+  </library>
+  <library name="Maven: net.jpountz.lz4:lz4:1.3.0">
+    <archive path="/Users/kenlo/.m2/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar" />
+  </library>
+  <library name="Maven: net.sf.ehcache:ehcache:2.8.5">
+    <archive path="/Users/kenlo/.m2/repository/net/sf/ehcache/ehcache/2.8.5/ehcache-2.8.5.jar" />
+  </library>
+  <library name="Maven: net.sf.opencsv:opencsv:2.3">
+    <archive path="/Users/kenlo/.m2/repository/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar" />
+  </library>
+  <library name="Maven: org.antlr:antlr4-runtime:4.7">
+    <archive path="/Users/kenlo/.m2/repository/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-compress:1.16.1">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.7">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-math3:3.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/commons/commons-math3/3.0/commons-math3-3.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-text:1.3">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/commons/commons-text/1.3/commons-text-1.3.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-asn1-api:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-asn1-api/1.0.0-M33/api-asn1-api-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-asn1-ber:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-asn1-ber/1.0.0-M33/api-asn1-ber-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-dsml-engine:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-dsml-engine/1.0.0-M33/api-dsml-engine-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-dsml-parser:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-dsml-parser/1.0.0-M33/api-dsml-parser-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-i18n:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-i18n/1.0.0-M33/api-i18n-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-client-api:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-client-api/1.0.0-M33/api-ldap-client-api-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-codec-core:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-codec-core/1.0.0-M33/api-ldap-codec-core-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-codec-standalone:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-codec-standalone/1.0.0-M33/api-ldap-codec-standalone-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-extras-aci:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-extras-aci/1.0.0-M33/api-ldap-extras-aci-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-extras-codec-api:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-extras-codec-api/1.0.0-M33/api-ldap-extras-codec-api-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-extras-codec:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-extras-codec/1.0.0-M33/api-ldap-extras-codec-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-extras-sp:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-extras-sp/1.0.0-M33/api-ldap-extras-sp-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-extras-trigger:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-extras-trigger/1.0.0-M33/api-ldap-extras-trigger-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-extras-util:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-extras-util/1.0.0-M33/api-ldap-extras-util-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-model:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-model/1.0.0-M33/api-ldap-model-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-net-mina:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-net-mina/1.0.0-M33/api-ldap-net-mina-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-ldap-schema-data:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-ldap-schema-data/1.0.0-M33/api-ldap-schema-data-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.api:api-util:1.0.0-M33">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/api/api-util/1.0.0-M33/api-util-1.0.0-M33.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.jdbm:apacheds-jdbm1:2.0.0-M3">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/jdbm/apacheds-jdbm1/2.0.0-M3/apacheds-jdbm1-2.0.0-M3.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.mavibot:mavibot:1.0.0-M8">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/mavibot/mavibot/1.0.0-M8/mavibot-1.0.0-M8.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-annotations:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-annotations/2.0.0-M21/apacheds-core-annotations-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-api:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-api/2.0.0-M21/apacheds-core-api-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-avl:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-avl/2.0.0-M21/apacheds-core-avl-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-constants:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-constants/2.0.0-M21/apacheds-core-constants-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-integ:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-integ/2.0.0-M21/apacheds-core-integ-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-jndi:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-jndi/2.0.0-M21/apacheds-core-jndi-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core-shared:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core-shared/2.0.0-M21/apacheds-core-shared-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-core:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-core/2.0.0-M21/apacheds-core-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-i18n:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M21/apacheds-i18n-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptor-kerberos:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptor-kerberos/2.0.0-M21/apacheds-interceptor-kerberos-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-admin:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-admin/2.0.0-M21/apacheds-interceptors-admin-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-authn:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-authn/2.0.0-M21/apacheds-interceptors-authn-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-authz:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-authz/2.0.0-M21/apacheds-interceptors-authz-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-changelog:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-changelog/2.0.0-M21/apacheds-interceptors-changelog-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-collective:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-collective/2.0.0-M21/apacheds-interceptors-collective-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-event:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-event/2.0.0-M21/apacheds-interceptors-event-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-exception:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-exception/2.0.0-M21/apacheds-interceptors-exception-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-hash:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-hash/2.0.0-M21/apacheds-interceptors-hash-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-journal:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-journal/2.0.0-M21/apacheds-interceptors-journal-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-normalization:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-normalization/2.0.0-M21/apacheds-interceptors-normalization-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-number:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-number/2.0.0-M21/apacheds-interceptors-number-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-operational:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-operational/2.0.0-M21/apacheds-interceptors-operational-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-referral:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-referral/2.0.0-M21/apacheds-interceptors-referral-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-schema:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-schema/2.0.0-M21/apacheds-interceptors-schema-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-subtree:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-subtree/2.0.0-M21/apacheds-interceptors-subtree-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-interceptors-trigger:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-interceptors-trigger/2.0.0-M21/apacheds-interceptors-trigger-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-jdbm-partition:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-jdbm-partition/2.0.0-M21/apacheds-jdbm-partition-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-kerberos-codec:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M21/apacheds-kerberos-codec-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-ldif-partition:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-ldif-partition/2.0.0-M21/apacheds-ldif-partition-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-mavibot-partition:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-mavibot-partition/2.0.0-M21/apacheds-mavibot-partition-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-protocol-kerberos:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-protocol-kerberos/2.0.0-M21/apacheds-protocol-kerberos-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-protocol-ldap:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-protocol-ldap/2.0.0-M21/apacheds-protocol-ldap-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-protocol-shared:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-protocol-shared/2.0.0-M21/apacheds-protocol-shared-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-server-annotations:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-server-annotations/2.0.0-M21/apacheds-server-annotations-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-server-config:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-server-config/2.0.0-M21/apacheds-server-config-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-server-integ:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-server-integ/2.0.0-M21/apacheds-server-integ-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-test-framework:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-test-framework/2.0.0-M21/apacheds-test-framework-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.directory.server:apacheds-xdbm-partition:2.0.0-M21">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/directory/server/apacheds-xdbm-partition/2.0.0-M21/apacheds-xdbm-partition-2.0.0-M21.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.5.2">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:tests:4.5.2">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-tests.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.4.5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.jar" />
+  </library>
+  <library name="Maven: org.apache.lucene:lucene-analyzers-common:5.5.5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/lucene/lucene-analyzers-common/5.5.5/lucene-analyzers-common-5.5.5.jar" />
+  </library>
+  <library name="Maven: org.apache.lucene:lucene-backward-codecs:5.5.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/lucene/lucene-backward-codecs/5.5.0/lucene-backward-codecs-5.5.0.jar" />
+  </library>
+  <library name="Maven: org.apache.lucene:lucene-codecs:5.5.5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/lucene/lucene-codecs/5.5.5/lucene-codecs-5.5.5.jar" />
+  </library>
+  <library name="Maven: org.apache.lucene:lucene-core:5.5.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/lucene/lucene-core/5.5.0/lucene-core-5.5.0.jar" />
+  </library>
+  <library name="Maven: org.apache.lucene:lucene-core:5.5.5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/lucene/lucene-core/5.5.5/lucene-core-5.5.5.jar" />
+  </library>
+  <library name="Maven: org.apache.lucene:lucene-queryparser:5.5.5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/lucene/lucene-queryparser/5.5.5/lucene-queryparser-5.5.5.jar" />
+  </library>
+  <library name="Maven: org.apache.mina:mina-core:2.0.10">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/mina/mina-core/2.0.10/mina-core-2.0.10.jar" />
+  </library>
+  <library name="Maven: org.apache.servicemix.bundles:org.apache.servicemix.bundles.antlr:2.7.7_5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/servicemix/bundles/org.apache.servicemix.bundles.antlr/2.7.7_5/org.apache.servicemix.bundles.antlr-2.7.7_5.jar" />
+  </library>
+  <library name="Maven: org.apache.servicemix.bundles:org.apache.servicemix.bundles.dom4j:1.6.1_5">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/servicemix/bundles/org.apache.servicemix.bundles.dom4j/1.6.1_5/org.apache.servicemix.bundles.dom4j-1.6.1_5.jar" />
+  </library>
+  <library name="Maven: org.apache.servicemix.bundles:org.apache.servicemix.bundles.xpp3:1.1.4c_6">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/servicemix/bundles/org.apache.servicemix.bundles.xpp3/1.1.4c_6/org.apache.servicemix.bundles.xpp3-1.1.4c_6.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-cache:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-cache/1.4.0/shiro-cache-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-config-core:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-config-core/1.4.0/shiro-config-core-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-config-ogdl:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-config-ogdl/1.4.0/shiro-config-ogdl-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-core:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-crypto-cipher:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-crypto-cipher/1.4.0/shiro-crypto-cipher-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-crypto-core:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-crypto-core/1.4.0/shiro-crypto-core-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-crypto-hash:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-crypto-hash/1.4.0/shiro-crypto-hash-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-event:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-event/1.4.0/shiro-event-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-lang:1.4.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apache/shiro/shiro-lang/1.4.0/shiro-lang-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.0.0">
+    <archive path="/Users/kenlo/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.assertj:assertj-core:3.4.1">
+    <archive path="/Users/kenlo/.m2/repository/org/assertj/assertj-core/3.4.1/assertj-core-3.4.1.jar" />
+  </library>
+  <library name="Maven: org.bitbucket.inkytonik.kiama:kiama_2.11:2.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/bitbucket/inkytonik/kiama/kiama_2.11/2.1.0/kiama_2.11-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.bouncycastle:bcpkix-jdk15on:1.59">
+    <archive path="/Users/kenlo/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.59/bcpkix-jdk15on-1.59.jar" />
+  </library>
+  <library name="Maven: org.bouncycastle:bcprov-jdk15on:1.59">
+    <archive path="/Users/kenlo/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.59/bcprov-jdk15on-1.59.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-compat-qual:2.0.0">
+    <archive path="/Users/kenlo/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-qual:2.0.0">
+    <archive path="/Users/kenlo/.m2/repository/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13">
+    <archive path="/Users/kenlo/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.13">
+    <archive path="/Users/kenlo/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.9.13/jackson-jaxrs-1.9.13.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13">
+    <archive path="/Users/kenlo/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar" />
+  </library>
+  <library name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14">
+    <archive path="/Users/kenlo/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty.websocket:websocket-api:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/websocket/websocket-api/9.4.8.v20171121/websocket-api-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty.websocket:websocket-client:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20171121/websocket-client-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty.websocket:websocket-common:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/websocket/websocket-common/9.4.8.v20171121/websocket-common-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-client:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-client/9.4.8.v20171121/jetty-client-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-http:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-http/9.4.8.v20171121/jetty-http-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-io:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-io/9.4.8.v20171121/jetty-io-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-security:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-security/9.4.8.v20171121/jetty-security-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-server:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-server/9.4.8.v20171121/jetty-server-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-servlet:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-servlet/9.4.8.v20171121/jetty-servlet-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-util:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-util/9.4.8.v20171121/jetty-util-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-webapp:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-webapp/9.4.8.v20171121/jetty-webapp-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jetty:jetty-xml:9.4.8.v20171121">
+    <archive path="/Users/kenlo/.m2/repository/org/eclipse/jetty/jetty-xml/9.4.8.v20171121/jetty-xml-9.4.8.v20171121.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-all:1.3">
+    <archive path="/Users/kenlo/.m2/repository/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="/Users/kenlo/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-library:1.3">
+    <archive path="/Users/kenlo/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
+  </library>
+  <library name="Maven: org.hdrhistogram:HdrHistogram:2.1.2">
+    <archive path="/Users/kenlo/.m2/repository/org/hdrhistogram/HdrHistogram/2.1.2/HdrHistogram-2.1.2.jar" />
+  </library>
+  <library name="Maven: org.javassist:javassist:3.21.0-GA">
+    <archive path="/Users/kenlo/.m2/repository/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar" />
+  </library>
+  <library name="Maven: org.joda:joda-convert:1.2">
+    <archive path="/Users/kenlo/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar" />
+  </library>
+  <library name="Maven: org.jprocesses:jProcesses:1.6.4">
+    <archive path="/Users/kenlo/.m2/repository/org/jprocesses/jProcesses/1.6.4/jProcesses-1.6.4.jar" />
+  </library>
+  <library name="Maven: org.json4s:json4s-ast_2.11:3.2.9">
+    <archive path="/Users/kenlo/.m2/repository/org/json4s/json4s-ast_2.11/3.2.9/json4s-ast_2.11-3.2.9.jar" />
+  </library>
+  <library name="Maven: org.json4s:json4s-core_2.11:3.2.9">
+    <archive path="/Users/kenlo/.m2/repository/org/json4s/json4s-core_2.11/3.2.9/json4s-core_2.11-3.2.9.jar" />
+  </library>
+  <library name="Maven: org.json4s:json4s-native_2.11:3.2.9">
+    <archive path="/Users/kenlo/.m2/repository/org/json4s/json4s-native_2.11/3.2.9/json4s-native_2.11-3.2.9.jar" />
+  </library>
+  <library name="Maven: org.json:json:20090211">
+    <archive path="/Users/kenlo/.m2/repository/org/json/json/20090211/json-20090211.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.0.2">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.0.2/junit-jupiter-api-5.0.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.1.0/junit-jupiter-api-5.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.1.0/junit-jupiter-engine-5.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.0.2">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/platform/junit-platform-commons/1.0.2/junit-platform-commons-1.0.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/platform/junit-platform-commons/1.1.0/junit-platform-commons-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/platform/junit-platform-engine/1.1.0/junit-platform-engine-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-launcher:1.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/platform/junit-platform-launcher/1.1.0/junit-platform-launcher-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-runner:1.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/platform/junit-platform-runner/1.1.0/junit-platform-runner-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-suite-api:1.1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/junit/platform/junit-platform-suite-api/1.1.0/junit-platform-suite-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-core:2.18.3">
+    <archive path="/Users/kenlo/.m2/repository/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar" />
+  </library>
+  <library name="Maven: org.mongodb:casbah-commons_2.11:2.7.1">
+    <archive path="/Users/kenlo/.m2/repository/org/mongodb/casbah-commons_2.11/2.7.1/casbah-commons_2.11-2.7.1.jar" />
+  </library>
+  <library name="Maven: org.mongodb:casbah-core_2.11:2.7.1">
+    <archive path="/Users/kenlo/.m2/repository/org/mongodb/casbah-core_2.11/2.7.1/casbah-core_2.11-2.7.1.jar" />
+  </library>
+  <library name="Maven: org.mongodb:casbah-query_2.11:2.7.1">
+    <archive path="/Users/kenlo/.m2/repository/org/mongodb/casbah-query_2.11/2.7.1/casbah-query_2.11-2.7.1.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongo-java-driver:2.12.1">
+    <archive path="/Users/kenlo/.m2/repository/org/mongodb/mongo-java-driver/2.12.1/mongo-java-driver-2.12.1.jar" />
+  </library>
+  <library name="Maven: org.mozilla:rhino:1.7.9">
+    <archive path="/Users/kenlo/.m2/repository/org/mozilla/rhino/1.7.9/rhino-1.7.9.jar" />
+  </library>
+  <library name="Maven: org.neo4j.3rdparty.javax.ws.rs:jsr311-api:1.1.2.r612">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/3rdparty/javax/ws/rs/jsr311-api/1.1.2.r612/jsr311-api-1.1.2.r612.jar" />
+  </library>
+  <library name="Maven: org.neo4j.client:neo4j-browser:3.1.14">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/client/neo4j-browser/3.1.14/neo4j-browser-3.1.14.jar" />
+  </library>
+  <library name="Maven: org.neo4j.driver:neo4j-java-driver:1.5.2">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/driver/neo4j-java-driver/1.5.2/neo4j-java-driver-1.5.2.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-compiler-2.3:2.3.12">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-compiler-2.3/2.3.12/neo4j-cypher-compiler-2.3-2.3.12.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-compiler-3.1:3.1.8">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-compiler-3.1/3.1.8/neo4j-cypher-compiler-3.1-3.1.8.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-compiler-3.3:3.3.5">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-compiler-3.3/3.3.5/neo4j-cypher-compiler-3.3-3.3.5.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-frontend-2.3:2.3.12">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-frontend-2.3/2.3.12/neo4j-cypher-frontend-2.3-2.3.12.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-frontend-3.1:3.1.8">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-frontend-3.1/3.1.8/neo4j-cypher-frontend-3.1-3.1.8.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-frontend-3.3:3.3.5">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-frontend-3.3/3.3.5/neo4j-cypher-frontend-3.3-3.3.5.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-ir-3.3:3.3.5">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-ir-3.3/3.3.5/neo4j-cypher-ir-3.3-3.3.5.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-cypher-logical-plans-3.3:3.3.5">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-cypher-logical-plans-3.3/3.3.5/neo4j-cypher-logical-plans-3.3-3.3.5.jar" />
+  </library>
+  <library name="Maven: org.neo4j:neo4j-graph-matching:3.1.6">
+    <archive path="/Users/kenlo/.m2/repository/org/neo4j/neo4j-graph-matching/3.1.6/neo4j-graph-matching-3.1.6.jar" />
+  </library>
+  <library name="Maven: org.objenesis:objenesis:2.6">
+    <archive path="/Users/kenlo/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
+  </library>
+  <library name="Maven: org.opencypher:tck-api:1.0.0-M09">
+    <archive path="/Users/kenlo/.m2/repository/org/opencypher/tck-api/1.0.0-M09/tck-api-1.0.0-M09.jar" />
+  </library>
+  <library name="Maven: org.opencypher:tck:1.0.0-M09">
+    <archive path="/Users/kenlo/.m2/repository/org/opencypher/tck/1.0.0-M09/tck-1.0.0-M09.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.0.0">
+    <archive path="/Users/kenlo/.m2/repository/org/opentest4j/opentest4j/1.0.0/opentest4j-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-analysis:6.0">
+    <archive path="/Users/kenlo/.m2/repository/org/ow2/asm/asm-analysis/6.0/asm-analysis-6.0.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-tree:6.0">
+    <archive path="/Users/kenlo/.m2/repository/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-util:6.0">
+    <archive path="/Users/kenlo/.m2/repository/org/ow2/asm/asm-util/6.0/asm-util-6.0.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm:6.0">
+    <archive path="/Users/kenlo/.m2/repository/org/ow2/asm/asm/6.0/asm-6.0.jar" />
+  </library>
+  <library name="Maven: org.parboiled:parboiled-core:1.1.7">
+    <archive path="/Users/kenlo/.m2/repository/org/parboiled/parboiled-core/1.1.7/parboiled-core-1.1.7.jar" />
+  </library>
+  <library name="Maven: org.parboiled:parboiled-scala_2.11:1.1.7">
+    <archive path="/Users/kenlo/.m2/repository/org/parboiled/parboiled-scala_2.11/1.1.7/parboiled-scala_2.11-1.1.7.jar" />
+  </library>
+  <library name="Maven: org.reflections:reflections:0.9.11">
+    <archive path="/Users/kenlo/.m2/repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar" />
+  </library>
+  <library name="Maven: org.rogach:scallop_2.11:2.1.1">
+    <archive path="/Users/kenlo/.m2/repository/org/rogach/scallop_2.11/2.1.1/scallop_2.11-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar" />
+  </library>
+  <library name="Maven: org.scala-lang.modules:scala-xml_2.11:1.0.2">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar" />
+  </library>
+  <library name="Maven: org.scala-lang:scala-compiler:2.11.12">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-lang/scala-compiler/2.11.12/scala-compiler-2.11.12.jar" />
+  </library>
+  <library name="Maven: org.scala-lang:scala-library:2.11.12">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar" />
+  </library>
+  <library name="Maven: org.scala-lang:scala-reflect:2.11.12">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar" />
+  </library>
+  <library name="Maven: org.scala-lang:scalap:2.11.12">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-lang/scalap/2.11.12/scalap-2.11.12.jar" />
+  </library>
+  <library name="Maven: org.scala-sbt:test-interface:1.0">
+    <archive path="/Users/kenlo/.m2/repository/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar" />
+  </library>
+  <library name="Maven: org.scalacheck:scalacheck_2.11:1.12.5">
+    <archive path="/Users/kenlo/.m2/repository/org/scalacheck/scalacheck_2.11/1.12.5/scalacheck_2.11-1.12.5.jar" />
+  </library>
+  <library name="Maven: org.scalatest:scalatest_2.11:2.2.5">
+    <archive path="/Users/kenlo/.m2/repository/org/scalatest/scalatest_2.11/2.2.5/scalatest_2.11-2.2.5.jar" />
+  </library>
+  <library name="Maven: org.scalautils:scalautils_2.11:2.1.7">
+    <archive path="/Users/kenlo/.m2/repository/org/scalautils/scalautils_2.11/2.1.7/scalautils_2.11-2.1.7.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.25">
+    <archive path="/Users/kenlo/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.7.25">
+    <archive path="/Users/kenlo/.m2/repository/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-nop:1.7.25">
+    <archive path="/Users/kenlo/.m2/repository/org/slf4j/slf4j-nop/1.7.25/slf4j-nop-1.7.25.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="/Users/kenlo/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="R User Library" />
+  <library name="R Skeletons" />
+</eclipse-userlibraries>
+
